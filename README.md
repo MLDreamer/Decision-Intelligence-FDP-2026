@@ -4,11 +4,5 @@
 
 This repository contains the official interactive hands-on workshop materials, mathematical code blocks, and structural datasets for the FDP session on cutting-edge AI engineering. We strip away standard marketing hype to demystify machine learning from absolute first principles, shifting from associative curve-fitting to true structural causal reasoning.
 
-## 📁 Repository Structure
-├── README.md                           # Master structural documentation
-├── notebooks/
-│   ├── 01_optimization_and_loss.ipynb  # Notebook 1: Loss Topologies & Metric Failures
-│   └── 02_causal_inference_surf.ipynb  # Notebook 2: Surf Excel Causal DAG & Frontdoor Engine
-└── data/
-└── simulated_surf_promo.csv         # Synthetic data reflecting hidden confounder
+
 
